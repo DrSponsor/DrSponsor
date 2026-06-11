@@ -14,7 +14,7 @@ I'm **Olatunji Oluwasegun Marvellous** — a fullstack software engineer and fou
 
 I build products that move the needle for the African and global market — from personal finance to university entrance prep. I care about clean architecture, real-world performance, and products that actually ship and scale.
 
-- 🔭 Actively building **[FinTrack](#)** & **[StudyBond](#)**
+- 🔭 Actively building **[FinTrack](#)** & **[StudyBond](https:github.com/StudyBond)**
 - 🛠 Expanding into DevOps engineering: Linux → Docker → K8s → CKA → AWS
 - 🤝 Open to collaborating on fintech & edtech for African markets
 - 📬 Reach me at: **marvelee57@gmail.com**
