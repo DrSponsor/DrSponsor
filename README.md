@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:533AB7&height=140&section=header&text=Dev%20Marvelee&fontSize=44&fontColor=ffffff&fontAlignY=40&desc=Fullstack%20Engineer%20%7C%20Mobile%20Developer%20%7C%20Founder%20%7C%20Lagos%20%F0%9F%87%B3%F0%9F%87%AC&descSize=14&descAlignY=60&animation=fadeIn" alt="Header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=1D9E75&center=true&vCenter=true&width=650&lines=Building+Nigeria%27s+financial+%26+edtech+future+%F0%9F%87%B3%F0%9F%87%AC;Fullstack+%2B+Mobile+%2B+DevOps+in+progress+%F0%9F%9B%A0;Founder+%40+FinTrack+Nigeria+%26+StudyBond+%F0%9F%9A%80;Self-taught.+Obsessed+with+shipping.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=1D9E75&center=true&vCenter=true&width=650&lines=Building+Nigeria%27s+financial+%26+edtech+future+%F0%9F%87%B3%F0%9F%87%AC;Fullstack+%2B+Mobile+%2B+DevOps+%F0%9F%9B%A0;Founder+%40+%26+StudyBond+%F0%9F%9A%80;Self-taught.+Obsessed+with+what+clients+users+love.)](https://git.io/typing-svg)
 
 </div>
 
