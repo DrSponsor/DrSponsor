@@ -130,7 +130,7 @@ Built during the Cardano Blockchain Hackathon — a decentralized application ex
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DrSponsor&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DrSponsor&layout=compact&theme=default&hide_border=false&langs_count=8" />
- 
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrSponsor&layout=compact&theme=default&langs_count=8" alt="Top Languages" />
 </picture>
 
 <br />
