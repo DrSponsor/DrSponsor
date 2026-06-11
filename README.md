@@ -122,23 +122,23 @@ Built during the Cardano Blockchain Hackathon — a decentralized application ex
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=false&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DrSponsor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=DrSponsor&show_icons=true&theme=default&hide_border=false&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DrSponsor&show_icons=true&theme=default&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </picture>
 &nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=false&langs_count=8" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&langs_count=8" alt="Top Languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DrSponsor&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DrSponsor&layout=compact&theme=default&hide_border=false&langs_count=8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrSponsor&layout=compact&theme=default&langs_count=8" alt="Top Languages" />
 </picture>
 
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default&hide_border=false" />
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default" alt="GitHub Streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DrSponsor&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=DrSponsor&theme=default&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=DrSponsor&theme=default" alt="GitHub Streak" />
 </picture>
 
 </div>
@@ -173,7 +173,7 @@ Building infrastructure skills from zero, phase by phase:
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=1D9E75&label=Profile+Views" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=DrSponsor&style=flat-square&color=1D9E75&label=Profile+Views" alt="Profile views" />
 
 <br /><br />
 
