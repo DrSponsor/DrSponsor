@@ -26,31 +26,23 @@ I build products that move the needle for the African and global market — from
 <table>
   <tr>
     <td width="50%" valign="top">
-
-### 💳 [FinTrack](https://github.com/DrSponsor/fintrack)
-
-Mobile-first personal finance platform for Nigerians with plans to expand globally. Offline-first sync with WatermelonDB, Paystack + Monnify billing, TimescaleDB for financial analytics, NDPR-compliant backend powered by Fastify 5.
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=flat-square&logo=timescale&logoColor=black)
-
+      <h3>💳 <a href="https://github.com/DrSponsor/fintrack">FinTrack</a></h3>
+      <p>Mobile-first personal finance platform for Nigerians with plans to expand globally. Offline-first sync with WatermelonDB, Paystack + Monnify billing, TimescaleDB for financial analytics, NDPR-compliant backend powered by Fastify 5.</p>
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+      <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+      <img src="https://img.shields.io/badge/TimescaleDB-FDB515?style=flat-square&logo=timescale&logoColor=black" alt="TimescaleDB" />
     </td>
     <td width="50%" valign="top">
-
-### 📚 [StudyBond](https://github.com/StudyBond)
-
-Real-time exam prep platform for Nigerian JAMB & Post-UTME candidates and also under development for India NEET UG. Accurate past-paper question banks, live collaborative study sessions, and performance analytics to help students study smarter.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Websocket](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-
+      <h3>📚 <a href="https://github.com/StudyBond">StudyBond</a></h3>
+      <p>Real-time exam prep platform for Nigerian JAMB &amp; Post-UTME candidates and also under development for India NEET UG. Accurate past-paper question banks, live collaborative study sessions, and performance analytics to help students study smarter.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.io" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
     </td>
   </tr>
 </table>
@@ -62,27 +54,19 @@ Real-time exam prep platform for Nigerian JAMB & Post-UTME candidates and also u
 <table>
   <tr>
     <td width="50%" valign="top">
-
-### 🔗 [PENXCHAIN](https://github.com/Penxchain)
-
-A privacy-focused blockchain ecosystem built to bring enhanced transaction privacy and data sovereignty to decentralized applications. One of my earliest deep dives into distributed systems and cryptographic primitives.
-
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=ethereum&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
-![Privacy](https://img.shields.io/badge/Privacy--First-1D9E75?style=flat-square&logoColor=white)
-![Cryptography](https://img.shields.io/badge/Cryptography-533AB7?style=flat-square&logoColor=white)
-
+      <h3>🔗 <a href="https://github.com/Penxchain">PENXCHAIN</a></h3>
+      <p>A privacy-focused blockchain ecosystem built to bring enhanced transaction privacy and data sovereignty to decentralized applications. One of my earliest deep dives into distributed systems and cryptographic primitives.</p>
+      <img src="https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=ethereum&logoColor=white" alt="Blockchain" />
+      <img src="https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3dotjs&logoColor=white" alt="Web3" />
+      <img src="https://img.shields.io/badge/Privacy--First-1D9E75?style=flat-square" alt="Privacy-First" />
+      <img src="https://img.shields.io/badge/Cryptography-533AB7?style=flat-square" alt="Cryptography" />
     </td>
     <td width="50%" valign="top">
-
-### ♠️ [Cardano Hackathon Project](https://github.com/DrSponsor)
-
-Built during the Cardano Blockchain Hackathon — a decentralized application exploring Cardano's eUTXO model and smart contract capabilities on its proof-of-stake network.
-
-![Cardano](https://img.shields.io/badge/Cardano-0D1E2D?style=flat-square&logo=cardano&logoColor=white)
-![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-5A45FF?style=flat-square&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
-
+      <h3>♠️ <a href="https://github.com/DrSponsor">Cardano Hackathon Project</a></h3>
+      <p>Built during the Cardano Blockchain Hackathon — a decentralized application exploring Cardano's eUTXO model and smart contract capabilities on its proof-of-stake network.</p>
+      <img src="https://img.shields.io/badge/Cardano-0D1E2D?style=flat-square&logo=cardano&logoColor=white" alt="Cardano" />
+      <img src="https://img.shields.io/badge/Smart_Contracts-5A45FF?style=flat-square" alt="Smart Contracts" />
+      <img src="https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white" alt="Haskell" />
     </td>
   </tr>
 </table>
