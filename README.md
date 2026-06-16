@@ -111,6 +111,11 @@ I build products that move the needle for the African and global market — from
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=DrSponsor&show_icons=true&theme=default&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </picture>
 &nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DrSponsor&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DrSponsor&layout=compact&theme=default&hide_border=false&langs_count=8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrSponsor&layout=compact&theme=default&langs_count=8" alt="Top Languages" />
+</picture>
 <br />
 
 <picture>
